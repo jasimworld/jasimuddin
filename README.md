@@ -1,4 +1,4 @@
 # jasimuddin
 My first repository
 <br>
-Author - Jasim Uddin
+Author - Jasim Uddin (developer)
